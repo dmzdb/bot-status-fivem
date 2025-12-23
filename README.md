@@ -33,14 +33,23 @@ Installer les dépendances :
 - Crée ou modifie le fichier config.json :
 
 {
+  
   "token": "",
+  
   "guildId": "",
+  
   "clientId": "",
+  
   "channelId": "",
+  
   "cfxJoin": "",
+  
   "logoURL": "",
+  
   "discordInvite": "",
+  
   "serverName": ""
+
 }
 
 Lancer le bot :
